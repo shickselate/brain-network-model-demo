@@ -17,6 +17,16 @@ When the FUS is active, the affected action’s signal weakens — often flippin
 
 ---
 
+## 🌱 For Newcomers
+
+Think of this as a **neural traffic light**:
+- The **BG** holds all actions at red.  
+- The **strongest** one gets a green light.  
+- **FUS** temporarily dims one signal — so another may pass first.
+
+---
+
+
 ## 📚 References
 
 This model builds on the **canonical Basal Ganglia–Thalamus architecture** implemented in Nengo, derived from work by Chris Eliasmith and colleagues on biologically grounded neural computation.
@@ -101,15 +111,6 @@ Watch the Thalamus outputs — the higher one is the “chosen” action.
   - More actions (dimensions > 2)  
   - Noisy or oscillatory modulation (for PRF-locked studies)  
   - Task-switch paradigms or stop-signal models  
-
----
-
-## 🌱 For Newcomers
-
-Think of this as a **neural traffic light**:
-- The **BG** holds all actions at red.  
-- The **strongest** one gets a green light.  
-- **FUS** temporarily dims one signal — so another may pass first.
 
 ---
 
