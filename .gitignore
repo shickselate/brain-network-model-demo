@@ -1,0 +1,10 @@
+/.venv
+/bg_gate_fus.py
+/bg_gate_fus.py.cfg
+/ocd_fus_nengo.py
+/ocd_gating_nengo_demo.py
+/ocd_gating_nengo_demo.py.cfg
+/ocd_gating_nengo_gui.py
+/ocd_gating_nengo_gui.py.cfg
+/toy_gate.py
+/toy_gate.py.cfg
