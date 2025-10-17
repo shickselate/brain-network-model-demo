@@ -17,6 +17,30 @@ When the FUS is active, the affected action’s signal weakens — often flippin
 
 ---
 
+## 📚 References
+
+This model builds on the **canonical Basal Ganglia–Thalamus architecture** implemented in Nengo, derived from work by Chris Eliasmith and colleagues on biologically grounded neural computation.
+
+- **Stewart, T. C., Bekolay, T., & Eliasmith, C. (2012).**  
+  [*Learning to select actions with spiking neurons in the basal ganglia*](https://doi.org/10.3389/fnins.2012.00002).  
+  *Frontiers in Neuroscience, 6, 2.*  
+  → Defines the spiking Basal Ganglia and Thalamus model used in Nengo.
+
+- **Eliasmith, C. & Anderson, C. H. (2003).**  
+  [*Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems*](https://mitpress.mit.edu/9780262550606/).  
+  MIT Press.  
+  → Introduces the Neural Engineering Framework (NEF) that underpins Nengo’s neural modeling approach.
+
+- **Eliasmith, C. et al. (2012).**  
+  [*A Large-Scale Model of the Functioning Brain (Spaun)*](https://doi.org/10.1126/science.1225266).  
+  *Science, 338(6111), 1202–1205.*  
+  → Demonstrates the NEF in a full cognitive architecture integrating perception, memory, and motor control.
+
+These works provide the theoretical and computational foundation for the present FUS-modulated action-selection model.
+
+
+---
+
 ## 🧩 How It Works
 
 | Component | Function | Analogue in Brain |
