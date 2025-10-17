@@ -26,11 +26,6 @@ This model builds on the **canonical Basal Ganglia–Thalamus architecture** imp
   *Frontiers in Neuroscience, 6, 2.*  
   → Defines the spiking Basal Ganglia and Thalamus model used in Nengo.
 
-- **Eliasmith, C. & Anderson, C. H. (2003).**  
-  [*Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems*](https://mitpress.mit.edu/9780262550606/).  
-  MIT Press.  
-  → Introduces the Neural Engineering Framework (NEF) that underpins Nengo’s neural modeling approach.
-
 - **Eliasmith, C. et al. (2012).**  
   [*A Large-Scale Model of the Functioning Brain (Spaun)*](https://doi.org/10.1126/science.1225266).  
   *Science, 338(6111), 1202–1205.*  
