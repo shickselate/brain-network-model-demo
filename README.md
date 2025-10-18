@@ -9,7 +9,7 @@ The model reflects the role of cortico-striato-thalamo-cortical (CSTC) loops in 
 📖 For background, see:
 [Calzà et al., 2019 — Altered Cortico-Striatal Functional Connectivity During Resting State in OCD](pmc.ncbi.nlm.nih.gov/articles/PMC6524661/)
 
-Demo built in **[Nengo](https://www.nengo.ai)**, it’s both a neuroscience teaching tool and a sandbox for developing neuromodulation models.
+Demo built in **[Nengo](https://www.nengo.ai)**, a biologically grounded neural simulation framework for modelling large-scale brain dynamics..
 
 ---
 
