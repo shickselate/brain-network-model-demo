@@ -1,8 +1,15 @@
 # 🧠 Basal Ganglia Action Selection with FUS Modulation
 
-This demo shows **how the basal ganglia (BG)** select between competing actions — and how **focused ultrasound (FUS)** can modulate that process by temporarily reducing cortical drive to the striatum (as in ALIC-targeted OCD treatments).
+This demo illustrates how the basal ganglia (BG) select between competing actions, and how focused ultrasound (FUS) can modulate that process by temporarily reducing cortical drive to the striatum — analogous to neuromodulation of the internal capsule for OCD.
 
-Built in **[Nengo](https://www.nengo.ai)**, it’s both a neuroscience teaching tool and a sandbox for developing neuromodulation models.
+The model reflects the role of cortico-striato-thalamo-cortical (CSTC) loops in decision making and inhibitory control. In OCD, hyperactivity within these loops is thought to disrupt the balance between goal-directed and habitual action pathways, a dysfunction that FUS aims to transiently normalise.
+
+<p align="center"> <img src="media/CTSC_loop.png" alt="Schematic representation of cortico-striato-thalamo-cortical (CSTC) loops" width="70%"/><br> <em>Schematic representation of cortico-striato-thalamo-cortical (CSTC) loops.</em> </p>
+
+📖 For background, see:
+[Calzà et al., 2019 — Altered Cortico-Striatal Functional Connectivity During Resting State in OCD](pmc.ncbi.nlm.nih.gov/articles/PMC6524661/)
+
+Demo built in **[Nengo](https://www.nengo.ai)**, it’s both a neuroscience teaching tool and a sandbox for developing neuromodulation models.
 
 ---
 
