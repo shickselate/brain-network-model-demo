@@ -1,1 +1,6 @@
 
+nengo>=4.0
+nengo-gui>=1.0
+matplotlib>=3.8
+scipy>=1.11
+numpy>=1.26
